@@ -36,6 +36,12 @@ Tech Stack
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=APACHE&logoColor=white">
 </div>
+    
+
+Certificate
+----------
+<a href="https://www.credly.com/badges/89682d07-67d8-47f4-ae16-582cef1690a6/public_url"><img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
+
 
 Blog
 ----------
