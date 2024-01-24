@@ -39,7 +39,7 @@ Tech Stack
 
 Certificate
 ----------
-<a href="https://www.credly.com/badges/89682d07-67d8-47f4-ae16-582cef1690a6/public_url"><img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
+<a href="https://www.credly.com/badges/89682d07-67d8-47f4-ae16-582cef1690a6/public_url"><img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"> </a>
 <img src="https://www.insoftservices.com/insoft/images/insoft/NSE3-Certification.png" width=13%>
 
 Blog
