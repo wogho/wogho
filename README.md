@@ -1,7 +1,7 @@
 Wogho
 ==============
 
-🏢 **VALOFE** - System Engenner (2020.12. ~ 2022.12.18) **Leave**
+🏢 **VALOFE** - System Engineer (2020.12. ~ 2022.12.18) **Leave**
 
 🔭 **Embedded** / **Cloud & Security Engineer**
 
