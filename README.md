@@ -8,14 +8,14 @@ Tech Stack
 <div align=center>
   <b><strong>Main Stacks</strong></b>
   <br>
-  <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=CISCO&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+  <a href="https://www.cisco.com/c/ko_kr/index.html"><img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=CISCO&logoColor=white">
+  <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
   <a href="https://www.debian.org"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white"/></a>
   <a href="https://www.centos.org"><img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/></a>
   <br>
-  <img src="https://img.shields.io/badge/fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">
-   <img src="https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoft azure&logoColor=white">
-  <img src="https://img.shields.io/badge/IDC-FD5750?style=for-the-badge&logo=serverless&logoColor=white">
+  <a href="https://www.fortinet.com/kr"><img src="https://img.shields.io/badge/fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">
+  <a href="https://azure.microsoft.com/ko-kr/"><img src="https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoft azure&logoColor=white">
+  <a href="https://www.lguplus.com/biz/all/telecom/idc/center/B000000031"><img src="https://img.shields.io/badge/IDC-FD5750?style=for-the-badge&logo=serverless&logoColor=white">
 </div>
 
 <div align=center>
