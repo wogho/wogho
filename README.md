@@ -1,5 +1,5 @@
 
-🏢 **VALOFE** - System Engineer (2020.12. ~ 2022.12.18) **Leave**
+<img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/wvpolsmnk4ebjrwsqlom" width=2%> **VALOFE** - System Engineer (2020.12. ~ 2022.12.18) **Leave**
 
 🔭 **Embedded** / **Cloud & Security Engineer**
 
