@@ -46,7 +46,7 @@ Certificate
 
 Blog
 ----------
-[![Trollonion03_Blog](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/dnldp55)](https://blog.naver.com/dnldp55)
+<a href="https://blog.naver.com/dnldp55"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 
 Contact
 -------
