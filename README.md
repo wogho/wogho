@@ -33,8 +33,8 @@ Tech Stack
   <a href="https://www.vmware.com/kr.html"><img src="https://img.shields.io/badge/VMWARE-607078?style=for-the-badge&logo=VMWARE&logoColor=white">
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=APACHE&logoColor=white">
+  <a href="https://nginx.org/en/"><img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
+  <a href="https://apache.org/"><img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=APACHE&logoColor=white">
 </div>
     
 
