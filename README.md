@@ -54,5 +54,6 @@ Blog
 <div align=center>
   
 ![Wogho's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogho&show_icons=true&theme=tokyonight)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnldp55)](https://solved.ac/dnldp55/)
 
 </div>
