@@ -18,6 +18,7 @@ Tech Stack
   <a href="https://www.fortinet.com/kr"><img src="https://img.shields.io/badge/fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">
   <a href="https://azure.microsoft.com/ko-kr/"><img src="https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoft azure&logoColor=white">
   <a href="https://www.lguplus.com/biz/all/telecom/idc/center/B000000031"><img src="https://img.shields.io/badge/IDC-FD5750?style=for-the-badge&logo=serverless&logoColor=white">
+  <br>
 </div>
 
 <div align=center>
@@ -49,5 +50,9 @@ Blog
 <a href="https://blog.naver.com/dnldp55"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 <a href="https://noong2.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF7F00?style=for-the-badge&logo=Tistory&logoColor=white">
 
-Contact
 -------
+<div align=center>
+  
+![Wogho's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogho&show_icons=true&theme=tokyonight)
+
+</div>
