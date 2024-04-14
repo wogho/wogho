@@ -53,9 +53,5 @@ Blog
 <a href="https://www.linkedin.com/in/jaeho-kim-2b70b1232"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 -------
-<div align=center>
-  
-![Wogho's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogho&show_icons=true&theme=tokyonight)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnldp55)](https://solved.ac/dnldp55/)
 
 </div>
