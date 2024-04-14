@@ -41,7 +41,7 @@ Tech Stack
 
 Certificate
 ----------
-<a href="https://www.credly.com/badges/d4dab542-5a02-485b-ad5f-ac6bc20236fe"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"> </a>
+<a href="https://www.credly.com/badges/d4dab542-5a02-485b-ad5f-ac6bc20236fe"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=13%> </a>
 <a href="https://www.credly.com/badges/89682d07-67d8-47f4-ae16-582cef1690a6/public_url"><img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"> </a>
 <img src="https://www.insoftservices.com/insoft/images/insoft/NSE3-Certification.png" width=13%>
 <img src="https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png" width=13%>
