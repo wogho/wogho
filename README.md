@@ -20,7 +20,7 @@ Wogho
   -  **[WELCOME TO ZANCHI [웹진 잔치] – 신촌만의 이야기를 담는 ...
 ](https://welcometozanchi.com/)**
 
-- **OpenMento** (2026.05):
+- **OpenMento** (2026.03):
   - 다중 에이전트 오케스트레이션 기반 AI 교육 자율 운영 플랫폼
   - 2026 KIT 바이브코딩 공모전
   -  **[AI-powered Education Platform OpenMento
