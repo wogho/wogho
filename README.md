@@ -11,20 +11,18 @@ Wogho
 />
 </a>
 
-## 💻 Projects
+## 💻 Experience
 <details>
   <summary>보기/접기</summary>
+
+- **LG Aimers 9기** (2026.08):
+  - 예선 참가 180위/1030위
+  -  **[LG Aimers 9기 — 야구 제구 성공 확률 예측 AI](https://github.com/wogho/LGAIMER_9th)**
 
 - **잔치** (2026.05):
   - 신촌 문화예술 웹진 잔치 (Zanchi) 웹페이지 구축
   -  **[WELCOME TO ZANCHI [웹진 잔치] – 신촌만의 이야기를 담는 ...
 ](https://welcometozanchi.com/)**
-
-- **OpenMento** (2026.03):
-  - 다중 에이전트 오케스트레이션 기반 AI 교육 자율 운영 플랫폼
-  - 2026 KIT 바이브코딩 공모전
-  -  **[AI-powered Education Platform OpenMento
-](https://openmento.cloud/)**
 
 - **VALOFE** Infra (2021.01 ~ 2022.12):
   - EDR/NGAV 정책 수립, VPN 망 통합, 보안 이벤트 대응
