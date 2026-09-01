@@ -17,7 +17,7 @@ jobs:
       - name: Update Credly badges
         uses: Sagargupta16/credly-badge-readme-action@v1
         with:
-          credly-username: "jaeho-kim" # Credly 사용자명 (필요 시 수정)
+          credly-username: "jaeho-kim.6ea8da66"
 
       - name: Commit changes
         run: |
