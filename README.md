@@ -15,18 +15,10 @@ Wogho
 <details>
   <summary>보기/접기</summary>
 
-- **LG Aimers 9기** (2026.08):
-  - 예선 참가 180위/1030위
-  -  **[LG Aimers 9기 — 야구 제구 성공 확률 예측 AI](https://github.com/wogho/LGAIMER_9th)**
-
-- **잔치** (2026.05):
-  - 신촌 문화예술 웹진 잔치 (Zanchi) 웹페이지 구축
-  -  **[WELCOME TO ZANCHI [웹진 잔치] – 신촌만의 이야기를 담는 ...
-](https://welcometozanchi.com/)**
-
-- **VALOFE** Infra (2021.01 ~ 2022.12):
-  - EDR/NGAV 정책 수립, VPN 망 통합, 보안 이벤트 대응
-  - AWS, NCP, GCP 멀티 클라우드 인프라 구성.
-  - On-Prem 서버 및 OS 구축 관리
+- 🎓 수료 · [한양대학교 X CJ올리브네트웍스] AI Cloud 엔지니어 과정 (90시간, 2026.08.10 ~ 08.28)
+- 🏁 참가 · LG Aimers 8기 야구 제구 성공 확률 예측 Phase 2 예선 (2026.08.05 ~ 09.02)
+- 🛠️ Dev  · 잔치 (ZANCHI)  — 신촌 문화예술 웹진 웹페이지 구축 [Website](https://welcometozanchi.com/)
+- 💼 Work · (주)밸로프 Infra팀 — EDR/NGAV 보안 정책 및  AWS, NCP, GCP 클라우드 인프라 구성 (2021.01.18 ~ 2022.12.18)
+- 🥈 2위 · 대전지방기능경기대회 IT네트워크시스템 직종 — 우수숙련인 장학 증서 (사)기능한국인회 (2019.04)
 
 </details>
