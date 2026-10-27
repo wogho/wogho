@@ -14,7 +14,8 @@ Wogho
 ## 💻 Experience
 <details>
   <summary>보기/접기</summary>
-
+  
+- 🎓 수료 · [한국인터넷진흥원] AI 위협탐지 및 대응과정 14기 (2026.09.28 ~ 10.28)
 - 🎓 수료 · [한양대학교 X CJ올리브네트웍스] AI Cloud 엔지니어 과정 (90시간, 2026.08.10 ~ 08.28)
 - 🎓 수료 · LG Aimers 8기 야구 제구 성공 확률 예측 Phase 1 & Phase 2 (2026.08.05 ~ 09.02)
 - 🛠️ Dev  · 잔치 (ZANCHI)  — 신촌 문화예술 웹진 웹페이지 구축 [Website](https://welcometozanchi.com/)
